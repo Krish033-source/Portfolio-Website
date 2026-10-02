@@ -75,7 +75,7 @@ Currently live at **krbtech.xyz**. To deploy your own copy:
 
 ## 📬 Contact
 
-- **Email:** krilal324@gmail.com
+- **Email:** krishnalal2028@gmail.com
 - **GitHub:** [@Krish033-source](https://github.com/Krish033-source)
 - **LinkedIn:** [krishna-lal-5b1a22321](https://linkedin.com/in/krishna-lal-5b1a22321)
 
