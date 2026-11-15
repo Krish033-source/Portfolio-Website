@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krbtech.xyz/sitemap.xml
